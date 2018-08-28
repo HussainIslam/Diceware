@@ -1,0 +1,7 @@
+﻿  support.c
+  Source.c
+c:\users\hussain and farhana\documents\visual studio 2017\projects\diceware\source.c(47): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hussain and farhana\documents\visual studio 2017\projects\diceware\source.c(52): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  diceware.vcxproj -> c:\users\hussain and farhana\documents\visual studio 2017\Projects\diceware\Debug\diceware.exe
+  diceware.vcxproj -> c:\users\hussain and farhana\documents\visual studio 2017\Projects\diceware\Debug\diceware.pdb (Partial PDB)
